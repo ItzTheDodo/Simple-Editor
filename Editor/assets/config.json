@@ -1,0 +1,17 @@
+{
+
+  "version": "1.0.0",
+  "client_resolution": "1300x850",
+  "mode": "dark",
+  "auto-save-files": "True",
+
+  "processes": {
+    "execution-command": "python %s",
+    "allow-parallel-run": "False"
+  },
+
+  "font": {
+    "family": "Times",
+    "size": 12
+  }
+}
